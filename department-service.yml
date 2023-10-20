@@ -20,6 +20,6 @@ server:
   port: 8080
 custom:
   key:
-    message: Hello, Department service
+    message: Hello World, Welcome to the Springboot...
 
 
