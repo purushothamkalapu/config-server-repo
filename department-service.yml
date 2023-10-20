@@ -18,5 +18,8 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 server:
   port: 8080
+custom:
+  key:
+    message: Hello, Department service
 
 
