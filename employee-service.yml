@@ -4,8 +4,6 @@ spring:
     url: jdbc:mysql://localhost:3306/employee_db
     username: root
     password: Krithik2020
-  application:
-    name: EMPLOYEE-SERVICE
   jpa:
     hibernate:
       ddl-auto: update
