@@ -20,6 +20,6 @@ server:
   port: 8080
 custom:
   key:
-    message: Hello World, This is Purushotham from Department service....
+    message: Hi Purushotham, From Department Service. Updated on 26thh Oct 9:45 PM.....
 
 
